@@ -27,4 +27,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shiva2076&show_icons=true&theme=radical)
 
 ## My Contributions
-![GitHub Snake Light](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](https://raw.githubusercontent.com/Shiva2076/Shiva2076/output/github-contribution-grid-snake.svg)
