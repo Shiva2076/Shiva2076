@@ -5,7 +5,7 @@
 ## About Me
 - 💻 I'm a Full Stack Developer, Software Developer
 - 🌍 I'm from Lucknow,Uttar Pradesh
-- 📚 I'm currently learning [Technologies]
+- 📚 I'm currently learning React Native, AWS services, and development
 - 🎮  I love coding, developing, and exploring new technologies
 
 ## My Skills
