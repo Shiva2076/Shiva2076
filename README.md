@@ -1,3 +1,5 @@
+![gitartwork](gitartwork.svg)
+
 # Hi, I'm [Your Name] 👋
 
 ## About Me
