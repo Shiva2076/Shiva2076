@@ -6,7 +6,7 @@
 - 💻 I'm a Full Stack Developer, Software Developer
 - 🌍 I'm from Lucknow,Uttar Pradesh
 - 📚 I'm currently learning [Technologies]
-- 🎮 I love [Your Interests]
+- 🎮  I love coding, developing, and exploring new technologies
 
 ## My Skills
 ### Languages & Tools:
