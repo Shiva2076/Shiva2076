@@ -1,6 +1,6 @@
 ![gitartwork](gitartwork.svg)
 
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Shiva 👋
 
 ## About Me
 - 💻 I'm a Full Stack Developer, Software Developer
