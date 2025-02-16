@@ -19,3 +19,10 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username)
+
+
+## My GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## My Contributions
+![GitHub Snake Light](https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg)
